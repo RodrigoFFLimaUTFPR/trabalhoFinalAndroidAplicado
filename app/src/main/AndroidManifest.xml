@@ -12,6 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TrabalhoFinalAndroidAplicado"
         tools:targetApi="31">
+        <activity android:name=".TransactionListActivity" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
