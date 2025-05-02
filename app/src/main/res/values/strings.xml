@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">trabalhoFinalAndroidAplicado</string>
+    <string name="app_name">Carteira Inteligente</string>
     <string name="select_type">Selecione o tipo de transação</string>
     <string name="select_detail">Selecione o detalhe da transação</string>
     <string name="amount">Amount</string>
